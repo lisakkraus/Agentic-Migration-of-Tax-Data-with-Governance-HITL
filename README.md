@@ -19,5 +19,5 @@ This sample workflow is designed to show how agents can migrate tax data in a wa
 
 
 
-\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.
+\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.\*\*
 
