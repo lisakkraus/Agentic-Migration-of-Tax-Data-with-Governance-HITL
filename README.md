@@ -13,11 +13,17 @@ This sample workflow is designed to show how agents can migrate tax data in a wa
 * The logs create auditable evidence of the AI's thought process and are used by reviewers 1 and 2 to make decisions regarding the data.
 * Logging human actions adds to the audit trail and ensures there is no opportunity for fraud.
 
+
+
 **THESE WORKFLOWS ARE INCOMPLETE AND HYPOTHETICAL.  DO NOT USE THEM WITHOUT EXTREME MODIFICATION.**
 
 **All proprietary code has been removed.**
 
 
 
-\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.\*\*
+\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release. https://www.linkedin.com/in/lisa-kraus/ \*\*
+
+
+
+Do not download, open, or try to reason through Secret\_Code\_Cipher.txt or Secret\_Code.txt.gif these are purely for IP Protection.
 
