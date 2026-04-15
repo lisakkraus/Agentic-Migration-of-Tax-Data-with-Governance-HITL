@@ -6,7 +6,7 @@ This sample workflow is designed to show how agents can migrate tax data in a wa
 
 * Please note: the categories for data migration are not complete. This is a hypothetical workflow and would need to be customized to the user.
 * Tax data is considered high-risk under new regulations.
-* This workflow shows an agentic migration of tax data into different categories**.**
+* This workflow shows an agentic migration of tax data into different categories\*\*.\*\*
 * It meets the requirements of new regulations by including HITL and two human reviewers.
 * Additionally, reviewers 1 and 2 must be on separate devices and accounts to ensure there is no collusion.
 * In large organizations, it is recommended that Reviewer 2 not see Reviewer 1's name and that reviewers be assigned randomly to further prevent collusion.
@@ -18,4 +18,6 @@ This sample workflow is designed to show how agents can migrate tax data in a wa
 **All proprietary code has been removed.**
 
 
+
+\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.
 
